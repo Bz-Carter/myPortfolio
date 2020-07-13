@@ -24,9 +24,53 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "node_modules/bootstrap/scss/bootstrap.scss",
+              "node_modules/owl.carousel/dist/assets/owl.carousel.min.css",
+              "node_modules/owl.carousel/dist/assets/owl.theme.default.min.css",
+              "src/styles.css",
+              "src/assets/fonticons/fontawesome/css/all.min.css",
+              "src/assets/fonticons/et-line/et-line-font.css",
+              "src/assets/fonticons/material-webfont/css/materialdesignicons.min.css",
+              "src/assets/fonticons/pixeden/pe-icon-7-stroke.css",
+              "src/assets/fonticons/simplelineicons/css/simple-line-icons.css",
+              "src/assets/vendor/animate-css/animate.min.css",
+              "src/assets/vendor/bootstrap/css/bootstrap.min.css",
+              "src/assets/vendor/sweetalert/sweetalert2.min.css",
+              "src/assets/vendor/jarallax/jarallax.css",
+              "src/assets/vendor/owlcarousel/owl.carousel.min.css",
+              "src/assets/vendor/magnific-popup/magnific-popup.css",
+              "src/assets/vendor/youtubebackground/css/jquery.mb.YTPlayer.min.css",
+              "src/assets/vendor/vegas/vegas.min.css",
+              "src/assets/css/ckav-main.css",
+              "src/assets/css/ckav-elements.css",
+              "src/assets/css/ckav-helper.css",
+              "src/assets/css/ckav-responsive.css",
+              "src/assets/css/template-custom.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/popper.js/dist/umd/popper.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "node_modules/owl.carousel/dist/owl.carousel.min.js",
+              "src/assets/vendor/jquery/jquery-3.3.1.min.js",
+              "src/assets/vendor/jquery/jquery-migrate-3.0.0.min.js",
+              "src/assets/vendor/popper/umd/popper.min.js",
+              "src/assets/vendor/bootstrap/js/bootstrap.min.js",
+              "src/assets/vendor/jquery-validation/jquery.validate.min.js",
+              "src/assets/vendor/sweetalert/sweetalert2.min.js",
+              "src/assets/vendor/jarallax/jarallax.min.js",
+              "src/assets/vendor/owlcarousel/owl.carousel.min.js",
+              "src/assets/vendor/swiper/js/swiper.min.js",
+              "src/assets/vendor/jQuery-viewport-checker/jquery.viewportchecker.min.js",
+              "src/assets/vendor/enquire/enquire.min.js",
+              "src/assets/vendor/magnific-popup/jquery.magnific-popup.min.js",
+              "src/assets/vendor/isotope/imagesloaded.pkgd.min.js",
+              "src/assets/vendor/isotope/isotope.pkgd.min.js",
+              "src/assets/vendor/isotope/packery-mode.pkgd.min.js",
+              "src/assets/vendor/vegas/vegas.min.js",
+              "src/assets/vendor/youtubebackground/jquery.mb.YTPlayer.min.js",
+              "src/assets/js/ckav-main.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -119,6 +163,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "le-Bz"
 }
